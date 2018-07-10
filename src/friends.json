@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "image": "/images/andy.png",
+    "clicked": false
+  },
+  {
+    "id": 2,
+    "image": "/images/angela.png",
+    "clicked": false
+  },
+  {
+    "id": 3,
+    "image": "/images/creed.png",
+    "clicked": false
+  },
+  {
+    "id": 4,
+    "image": "/images/david.png",
+    "clicked": false
+  },
+  {
+    "id": 5,
+    "image": "/images/derrel.png",
+    "clicked": false
+  },
+  {
+    "id": 6,
+    "image": "/images/dwight.png",
+    "clicked": false
+  },
+  {
+    "id": 7,
+    "image": "/images/erin.png",
+    "clicked": false
+  },
+  {
+    "id": 8,
+    "image": "/images/gabe.png",
+    "clicked": false
+  },
+  {
+    "id": 9,
+    "image": "/images/holly.png",
+    "clicked": false
+  },
+  {
+    "id": 10,
+    "image": "/images/howard.png",
+    "clicked": false
+  },
+  {
+    "id": 11,
+    "image": "/images/jan.png",
+    "clicked": false
+  },
+  {
+    "id": 12,
+    "image": "/images/jim.png",
+    "clicked": false
+  },
+  {
+    "id": 13,
+    "image": "/images/joe.png",
+    "clicked": false
+  },
+  {
+    "id": 14,
+    "image": "/images/kelly.png",
+    "clicked": false
+  },
+  {
+    "id": 15,
+    "image": "/images/kevin.png",
+    "clicked": false
+  },
+  {
+    "id": 16,
+    "image": "/images/meredith.png",
+    "clicked": false
+  },
+  {
+    "id": 17,
+    "image": "/images/mike.png",
+    "clicked": false
+  },
+  {
+    "id": 18,
+    "image": "/images/oscar.png",
+    "clicked": false
+  },
+  {
+    "id": 19,
+    "image": "/images/pam.png",
+    "clicked": false
+  },
+  {
+    "id": 20,
+    "image": "/images/phyllis.png",
+    "clicked": false
+  },
+  {
+    "id": 21,
+    "image": "/images/roy.png",
+    "clicked": false
+  },
+  {
+    "id": 22,
+    "image": "/images/ryan.png",
+    "clicked": false
+  },
+  {
+    "id": 23,
+    "image": "/images/stanley.png",
+    "clicked": false
+  },
+  {
+    "id": 24,
+    "image": "/images/toby.png",
+    "clicked": false
+  }
+]
