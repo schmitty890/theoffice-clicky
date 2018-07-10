@@ -9,6 +9,6 @@
 ![screenshot](public/images/screenshot.png)
 
 ### Installation
-`git clone` this repo and cd into the project.
-`yarn install` to install dependencies
-`yarn start` to view project running on localhost:3000
+- `git clone` this repo and cd into the project.
+- `yarn install` to install dependencies
+- `yarn start` to view project running on localhost:3000
