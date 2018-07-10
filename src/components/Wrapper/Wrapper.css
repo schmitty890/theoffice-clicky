@@ -1,0 +1,14 @@
+.wrapper {
+  background: rgb(175, 175, 175);
+  background-image: url('/images/theofficebgmike.jpg');
+  height: 100%;
+  width: 100%;
+  background-attachment: fixed;
+  background-position: center; 
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-around;
+  align-content: flex-start;
+  overflow: auto;
+  padding-bottom: 50px;
+}
